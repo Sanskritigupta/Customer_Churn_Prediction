@@ -62,3 +62,5 @@ if st.button("Predict"):
         st.error("Customer is likely to Churn")
     else:
         st.success("Customer is likely to Stay")
+st.markdown("---")
+st.caption("Created by Sanskriti Gupta")
