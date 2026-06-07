@@ -7,3 +7,4 @@ st.title("Customer Churn Prediction")
 st.write("Welcome to Customer Churn Prediction App")
 
 st.success("App deployed successfully!")
+ 
